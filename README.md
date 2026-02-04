@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Chandan Kumar
+# 👋 Hi, I'm Chandan Kumar (@CodeWithCk99)
 
 🚀 Full-Stack Developer | App & Web Creator  
-💡 I build modern web apps, PWAs, utilities & small games.
+💡 I build modern, scalable web apps, PWAs, smart utilities & small games.
 
 ---
 
@@ -9,22 +9,22 @@
 - 🌐 HTML, CSS, JavaScript
 - ⚛️ React, Vite
 - 🟢 Node.js, Express
-- 📱 PWA & Web Tools
-- 🎨 UI/UX (Minimal & Dark Mode)
+- 📱 Progressive Web Apps (PWA)
+- 🎨 UI/UX Design (Minimal, Dark Mode Friendly)
 
 ---
 
-## 🔥 Projects
-- 🧰 Smart Utility Toolkit (50+ tools)
-- 📱 Progressive Web Apps
-- 🌐 Portfolio Websites
-- 🎮 Small Web Games
+## 🔥 Featured Projects
+- 🧰 **Smart Utility Toolkit** – 50+ web-based tools
+- 📱 **Progressive Web Apps** – Fast, installable web apps
+- 🌐 **Portfolio Websites** – Modern & responsive designs
+- 🎮 **Mini Web Games** – Fun & interactive browser games
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/CodeWithCk
-- Portfolio: https://codewithck.vercel.app
+- 💻 GitHub: https://github.com/CodeWithCk99  
+- 🌐 Portfolio: https://codewithck.vercel.app  
 
 ---
 
